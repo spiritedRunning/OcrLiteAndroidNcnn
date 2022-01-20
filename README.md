@@ -29,16 +29,6 @@
 
 </details>
 
-## 联系方式
-
-* QQ①群：994929053
-* QQ②群：820132154
-* QQ③群：904091319
-
-## 项目完整源码
-
-* 整合好源码和依赖库的完整工程项目，文件比较大，可到Q群共享内下载，以Project开头的压缩包文件为源码工程，例：Project_OcrLiteAndroidNcnn-版本号.7z
-* 如果想自己折腾，则请继续阅读本说明
 
 ## APK下载
 
@@ -116,9 +106,7 @@ OcrLiteAndroidNcnn/OcrLibrary/src/sdk
 * 目标是编译cpu版和gpu版，所以需要下载 "不带vulkan的"和"带vulkan的"两种库。
 * 但是每种库又分为静态库和动态库，所以一共就有四种库。
 * 下载ncnn-20210124-android.zip或ncnn-20210124-android-shared.zip，二选一，解压到OcrLiteAndroidNcnn/OcrLibrary/src/main/ncnn
-*
-
-下载ncnn-20210124-android-vulkan.zip或ncnn-20210124-android-vulkan-shared.zip，二选一，解压到OcrLiteAndroidNcnn/OcrLibrary/src/main/ncnn-vulkan
+* 下载ncnn-20210124-android-vulkan.zip或ncnn-20210124-android-vulkan-shared.zip，二选一，解压到OcrLiteAndroidNcnn/OcrLibrary/src/main/ncnn-vulkan
 
 * 解压后目录结构为
 
