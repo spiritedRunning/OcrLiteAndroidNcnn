@@ -1,5 +1,2 @@
 /build
 /.cxx
-
-/src/main/assets/*.bin
-/src/main/assets/*.param
